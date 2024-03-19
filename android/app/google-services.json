@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867583680837",
+    "project_id": "phone-authentication-ddb5c",
+    "storage_bucket": "phone-authentication-ddb5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867583680837:android:81bfa85c82da3424599e2c",
+        "android_client_info": {
+          "package_name": "com.example.jio_saavn_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCubxVCQHG3ieLoA11-3EzmohuAsMET8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
